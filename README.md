@@ -4,4 +4,4 @@
 - it used for read your essay , email or your text content.
 
 # How you use it
-- it is simple html ,css and Js file so you can download the code and run it directly.
+- it is simple html file so you can download the code and run it directly.
